@@ -1,0 +1,15 @@
+#container {
+	width: 400px;
+	margin: 30px auto 0;
+}
+#game_div {
+    
+}
+#tresholder {
+	margin-top: 10px;
+}
+#treshold {
+	display: inline-block;
+	width: 30px;
+	
+}
